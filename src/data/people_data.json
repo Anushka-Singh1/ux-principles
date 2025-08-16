@@ -1,0 +1,47 @@
+{
+    "ux":[
+  {
+    "id": 1,
+    "name": "Don Norman",
+    "designation": "Co-founder, Nielsen Norman Group",
+    "image": "/images/1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Jakob Nielsen",
+    "designation": "Co-founder, Nielsen Norman Group",
+    "image": "/images/2.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Raluca Budiu",
+    "designation": "Principal Researcher, Nielsen Norman Group",
+    "image": "/images/3.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Kate Moran",
+    "designation": "Senior UX Specialist, Nielsen Norman Group",
+    "image": "/images/4.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bruce Tognazzini",
+    "designation": "Human–Computer Interaction Pioneer",
+    "image": "/images/5.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Steve Krug",
+    "designation": "Author, “Don’t Make Me Think”",
+    "image": "/images/6.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Jared Spool",
+    "designation": "Founding Principal, UIE",
+    "image": "/images/7.jpg"
+  }
+  
+]
+}

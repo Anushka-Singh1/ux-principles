@@ -1,0 +1,44 @@
+{
+  "design_data": [
+  {
+    "quote": "Remove noise and present only what’s essential. Use concise copy, clear visuals, and obvious next steps to lower cognitive load and help users succeed faster.",
+    "name": "Clarity",
+    "title": "Make the Essential Obvious"
+  },
+  {
+    "quote": "Repeat proven patterns, spacing, and naming so interactions behave predictably across the product. Consistency builds trust and reduces relearning.",
+    "name": "Consistency",
+    "title": "Predictability by Design"
+  },
+  {
+    "quote": "Guide attention using size, weight, spacing, and contrast. Establish a clear reading order so the most important information stands out instantly.",
+    "name": "Hierarchy",
+    "title": "Guide Attention"
+  },
+  {
+    "quote": "Acknowledge every action with states, motion, and microcopy. Good feedback confirms what happened, what’s in progress, and what the user can do next.",
+    "name": "Feedback",
+    "title": "Close the Loop"
+  },
+  {
+    "quote": "Make interactive elements feel interactive. Provide generous hit areas, distinct affordances, and visible hover/focus states to invite confident action.",
+    "name": "Affordance",
+    "title": "Make Actions Actionable"
+  },
+  {
+    "quote": "Design for everyone by ensuring keyboard navigation, visible focus, proper labels, and sufficient color contrast. Accessibility improves UX for all.",
+    "name": "Accessibility",
+    "title": "Design for Everyone"
+  },
+  {
+    "quote": "Optimize perceived speed with skeletons, lazy loading, and non-blocking transitions. Performance shapes how users feel about your product.",
+    "name": "Performance",
+    "title": "Speed Is Part of UX"
+  },
+  {
+    "quote": "Let content drive layout and structure. Prioritize user goals, keep copy purposeful, and organize information so the interface matches intent.",
+    "name": "Content First",
+    "title": "Let Content Shape Layout"
+  }
+]
+}

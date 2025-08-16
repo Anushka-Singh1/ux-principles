@@ -1,0 +1,145 @@
+{
+    "ui_data":
+[
+  {
+    "id": "responsive-design",
+    "title": "Responsive Design",
+    "category": "Layout",
+    "description": "Design interfaces that adapt fluidly to different screen sizes and orientations.",
+    "image": "/images/3.jpg",
+    "alt": "Responsive Design illustration",
+    "benefits": ["Improved usability", "Wider audience reach", "SEO boost"],
+    "challenges": ["Complex layouts", "Performance optimization"],
+    "examples": ["Fluid grids", "Flexible images", "Media queries"],
+    "resources": [
+      "https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Responsive_Design"
+    ],
+    "status": "recommended"
+  },
+  {
+    "id": "microinteractions",
+    "title": "Microinteractions",
+    "category": "Interaction Design",
+    "description": "Small, subtle animations or feedback loops that improve the user experience.",
+    "image": "/images/1.jpg",
+    "alt": "Microinteractions example",
+    "benefits": ["Increased engagement", "Clear feedback", "Delight factor"],
+    "challenges": ["Performance costs", "Overuse leading to distraction"],
+    "examples": ["Like button animations", "Form validation feedback"],
+    "resources": ["https://microinteractions.com/"],
+    "status": "essential"
+  },
+  {
+    "id": "progressive-disclosure",
+    "title": "Progressive Disclosure",
+    "category": "Information Architecture",
+    "description": "Reveal information progressively to reduce cognitive load and guide the user.",
+    "image": "/images/2.jpg",
+    "alt": "Progressive Disclosure pattern",
+    "benefits": ["Reduced overwhelm", "Better focus", "Guided learning"],
+    "challenges": ["Over-hiding important info", "Navigation complexity"],
+    "examples": ["Accordion menus", "Step-by-step forms"],
+    "resources": ["https://www.nngroup.com/articles/progressive-disclosure/"],
+    "status": "recommended"
+  },
+  {
+    "id": "accessibility-standards",
+    "title": "Accessibility Standards",
+    "category": "Accessibility",
+    "description": "Design products that are usable by people with disabilities, meeting WCAG guidelines.",
+    "image": "/images/4.jpg",
+    "alt": "Accessibility standards",
+    "benefits": ["Inclusive design", "Legal compliance", "Better UX for all"],
+    "challenges": ["Testing with assistive tech", "Keeping up with standards"],
+    "examples": [
+      "Screen reader support",
+      "High contrast modes",
+      "Keyboard navigation"
+    ],
+    "resources": ["https://www.w3.org/WAI/standards-guidelines/wcag/"],
+    "status": "mandatory"
+  },
+  {
+    "id": "design-tokens",
+    "title": "Design Tokens",
+    "category": "Design Systems",
+    "description": "Centralized variables for colors, typography, spacing, and other design properties.",
+    "image": "/images/5.jpg",
+    "alt": "Design tokens icons",
+    "benefits": ["Consistency", "Easier updates", "Scalability"],
+    "challenges": ["Cross-platform mapping", "Versioning control"],
+    "examples": ["Color palette tokens", "Spacing scale tokens"],
+    "resources": ["https://m3.material.io/foundations/design-tokens/overview"],
+    "status": "essential"
+  },
+  {
+    "id": "usability-testing",
+    "title": "Usability Testing",
+    "category": "UX Research",
+    "description": "Observe real users interacting with your product to identify pain points.",
+    "image": "/images/6.jpg",
+    "alt": "Usability testing session",
+    "benefits": ["User-centered improvements", "Reduced development waste"],
+    "challenges": ["Recruiting participants", "Bias in test setup"],
+    "examples": ["Moderated sessions", "Remote unmoderated tests"],
+    "resources": ["https://www.nngroup.com/articles/usability-testing-101/"],
+    "status": "essential"
+  },
+  {
+    "id": "error-prevention",
+    "title": "Error Prevention",
+    "category": "Interaction Design",
+    "description": "Design forms and workflows to minimize the chance of user mistakes.",
+    "image": "/images/7.jpg",
+    "alt": "Error prevention form validation",
+    "benefits": ["Less frustration", "Higher task success rates"],
+    "challenges": ["Balancing constraints with flexibility"],
+    "examples": ["Form validation", "Undo options"],
+    "resources": ["https://www.nngroup.com/articles/slips/"],
+    "status": "essential"
+  },
+  {
+    "id": "content-priority",
+    "title": "Content Priority",
+    "category": "Information Architecture",
+    "description": "Organize and emphasize content according to user goals and business needs.",
+    "image": "/images/8.jpg",
+    "alt": "Content priority hierarchy",
+    "benefits": ["Improved clarity", "Better conversions"],
+    "challenges": ["Balancing competing priorities", "Content bloat"],
+    "examples": ["Above-the-fold focus", "Card sorting exercises"],
+    "resources": [
+      "https://www.usability.gov/what-and-why/content-strategy.html"
+    ],
+    "status": "recommended"
+  },
+  {
+    "id": "dark-mode",
+    "title": "Dark Mode",
+    "category": "Visual Design",
+    "description": "Offer a dark theme option for user comfort and energy savings.",
+    "image": "/images/9.jpg",
+    "alt": "Dark mode preview",
+    "benefits": ["Eye comfort", "Battery efficiency", "Aesthetic appeal"],
+    "challenges": ["Color contrast", "Asset compatibility"],
+    "examples": ["OS-level theme detection", "Manual theme toggles"],
+    "resources": ["https://material.io/design/color/dark-theme.html"],
+    "status": "optional"
+  },
+  {
+    "id": "loading-skeletons",
+    "title": "Loading Skeletons",
+    "category": "Performance UX",
+    "description": "Show placeholder shapes while content loads to improve perceived performance.",
+    "image": "/images/10.jpg",
+    "alt": "Loading skeletons UI",
+    "benefits": ["Reduced perceived wait time", "Smooth loading experience"],
+    "challenges": ["Keeping placeholders consistent", "Not faking speed"],
+    "examples": ["Gray blocks for text/images", "Progressive image loading"],
+    "resources": [
+      "https://uxdesign.cc/what-you-should-know-about-skeleton-screens-a820c45a571a"
+    ],
+    "status": "recommended"
+  }
+]
+}
